@@ -1,0 +1,9 @@
+html {
+    background-color: #1B2430;
+}
+.first-header {
+    display: flex;
+    background-color: #0060D6;
+    color: #ffffff;
+    justify-content: center;
+}
